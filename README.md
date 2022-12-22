@@ -2,7 +2,7 @@
 Project done in Sem - V (TCSC)
 To run the project make sure you download android studio as it is based on java and xml.
 
-Use any of these commands to use the feature of the applicaton
+Use any of these commands to use the feature of the applicaton/n
 Dipslay date and time: /ShowDateandTime
 To control brightness: /Brightness OR /Open BrightnessSettings1
 To control_volume    : /Open control_volume
