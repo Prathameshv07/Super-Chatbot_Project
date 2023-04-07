@@ -4,12 +4,14 @@ To run the project make sure you download android studio as it is based on java 
 
 Use any of these commands to use the feature of the applicaton
 
-Dipslay date and time: /ShowDateandTime
-To control brightness: /Brightness OR /Open BrightnessSettings1
-To control_volume    : /Open control_volume
-To count your step   : /Open StepCount
-To play tic_tac_toe  : /Open tic_tac_toe 
-To use Caeser_cipher : /Open caeser_cipher 
-To use morse_code    : /Open morse_code  
-Refresh the content  : /Refresh Content OR Just swipe down to refresh
-Make an exit         : /Exit
+```bash
+Dipslay date and time:   /ShowDateandTime
+To control brightness:   /Brightness OR /Open BrightnessSettings1
+To control_volume    :   /Open control_volume
+To count your step   :   /Open StepCount
+To play tic_tac_toe  :   /Open tic_tac_toe 
+To use Caeser_cipher :   /Open caeser_cipher 
+To use morse_code    :   /Open morse_code  
+Refresh the content  :   /Refresh Content OR Just swipe down to refresh
+Make an exit         :   /Exit
+```
