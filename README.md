@@ -2,6 +2,8 @@
 Project done in Sem - V (TCSC)
 To run the project make sure you download android studio as it is based on java and xml.
 
+Inshort it is an chat application which can be used to chat with an chatbot to test how they react and it is connected with brainshop through and api called retrofit which is used to convert the json format to text then it just displays the text in the textbox
+
 Use any of these commands to use the feature of the applicaton
 
 ```bash
