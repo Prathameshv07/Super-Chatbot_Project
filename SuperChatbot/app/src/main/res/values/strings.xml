@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Super Chatbot</string>
+    <string name="message">Message</string>
+    <string name="enter_brightness_level">Enter_Brightness_Level</string>
+    <string name="set">Set</string>
+</resources>
