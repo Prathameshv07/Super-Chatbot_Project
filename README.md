@@ -2,7 +2,7 @@
 Project done in Sem - V (TCSC)
 To run the project make sure you download android studio as it is based on java and xml.
 
-Inshort it is an chat application which can be used to chat with an chatbot to test how they react and it is connected with brainshop website through volley library which is used to convert the json format to text then it just displays the text in the textbox. And there is also an app where all the below listed features are implemented you can just download and look at all those features (app name - **`Super Chatbot.apk`**)
+Inshort it is an chat application which can be used to chat with an chatbot to test how they react and it is connected with brainshop website through volley library which is used to convert the json format to text then it just displays the text in the textbox. And there is also an app where all the below listed features are implemented you can just download and look at all those features (app name - [**`Super Chatbot.apk`**](https://github.com/Prathameshv07/Super-Chatbot_Project/blob/main/Super%20Chatbot.apk))
 
 Use any of these commands to use the feature of the applicaton
 
