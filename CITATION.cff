@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it using the metadata below."
+type: software
+title: "Super Chatbot: Android Chatbot with Utility Commands"
+authors:
+  - given-names: "Prathamesh Sarjerao"
+    family-names: "Vaidya"
+    orcid: "https://orcid.org/0009-0000-8091-4256"
+repository-code: "https://github.com/Prathameshv07/Super-Chatbot_Project"
+license: CC-BY-NC-4.0
+date-released: "2025-04-29"
+abstract: "An undergraduate (B.Sc. Semester V) Android application in Java that pairs a conversational chatbot (BrainShop API via Volley) with slash-command utilities such as a step counter, brightness/volume control, tic-tac-toe, Caesar cipher and Morse code."
+keywords:
+  - "Android"
+  - "Java"
+  - "chatbot"
+  - "mobile application"
